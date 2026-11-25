@@ -1,0 +1,50 @@
+{
+  "name": "AV App Store LG TV",
+  "description": "Kho ứng dụng giải trí đỉnh cao cho Smart TV LG (AV Sport & AV Movie 4K)",
+  "packages": [
+    {
+      "id": "com.anhviet.avsport.tv",
+      "title": "AV Sport",
+      "version": "1.0.8",
+      "type": "web",
+      "category": "media",
+      "iconUri": "https://raw.githubusercontent.com/anhviet-key/tivi_lg/main/icons/avsport.png",
+      "manifestUrl": "https://raw.githubusercontent.com/anhviet-key/tivi_lg/main/manifests/com.anhviet.avsport.tv.json",
+      "manifest": {
+        "id": "com.anhviet.avsport.tv",
+        "version": "1.0.8",
+        "type": "web",
+        "title": "AV Sport",
+        "appDescription": "Xem trực tiếp bóng đá, thể thao HD/FHD mượt mà trên LG webOS TV. Hỗ trợ điều khiển remote TV, tự động kiểm tra bản cập nhật và thanh toán SePay VietQR.",
+        "iconUri": "https://raw.githubusercontent.com/anhviet-key/tivi_lg/main/icons/avsport.png",
+        "sourceUrl": "https://github.com/anhviet-key/tivi_lg",
+        "ipkUrl": "https://raw.githubusercontent.com/anhviet-key/tivi_lg/main/releases/com.anhviet.avsport.tv_1.0.8_all.ipk",
+        "ipkHash": {
+          "sha256": "6ff12ee749adcb5e469a0b3a1959a0c024b376030ad6133c9f3ab3400d0d37ba"
+        }
+      }
+    },
+    {
+      "id": "com.avmovie.webos",
+      "title": "AV Movie 4K",
+      "version": "1.2.3",
+      "type": "web",
+      "category": "media",
+      "iconUri": "https://raw.githubusercontent.com/anhviet-key/tivi_lg/main/icons/avmovie.png",
+      "manifestUrl": "https://raw.githubusercontent.com/anhviet-key/tivi_lg/main/manifests/com.avmovie.webos.json",
+      "manifest": {
+        "id": "com.avmovie.webos",
+        "version": "1.2.3",
+        "type": "web",
+        "title": "AV Movie 4K",
+        "appDescription": "Xem phim điện ảnh, truyền hình, hoạt hình 4K đỉnh cao trên LG webOS TV. Hỗ trợ giao diện Netflix phong cách TV, điều khiển remote D-Pad, tự động cập nhật và thanh toán SePay VietQR.",
+        "iconUri": "https://raw.githubusercontent.com/anhviet-key/tivi_lg/main/icons/avmovie.png",
+        "sourceUrl": "https://github.com/anhviet-key/tivi_lg",
+        "ipkUrl": "https://raw.githubusercontent.com/anhviet-key/tivi_lg/main/releases/com.avmovie.webos_1.2.3_all.ipk",
+        "ipkHash": {
+          "sha256": "d48ac77d225173b8f052ee31b03415ca634ecf91b496ebe78a2ae3bc935ba4ea"
+        }
+      }
+    }
+  ]
+}

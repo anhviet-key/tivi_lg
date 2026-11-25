@@ -1,0 +1,13 @@
+{
+  "id": "com.anhviet.avsport.tv",
+  "version": "1.0.8",
+  "type": "web",
+  "title": "AV Sport",
+  "appDescription": "Xem trực tiếp bóng đá, thể thao HD/FHD mượt mà trên LG webOS TV. Hỗ trợ điều khiển remote TV, tự động kiểm tra bản cập nhật và thanh toán SePay VietQR.",
+  "iconUri": "https://raw.githubusercontent.com/anhviet-key/tivi_lg/main/icons/avsport.png",
+  "sourceUrl": "https://github.com/anhviet-key/tivi_lg",
+  "ipkUrl": "https://raw.githubusercontent.com/anhviet-key/tivi_lg/main/releases/com.anhviet.avsport.tv_1.0.8_all.ipk",
+  "ipkHash": {
+    "sha256": "6ff12ee749adcb5e469a0b3a1959a0c024b376030ad6133c9f3ab3400d0d37ba"
+  }
+}
