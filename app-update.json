@@ -1,0 +1,18 @@
+{
+  "avsport": {
+    "version": "1.0.8",
+    "releaseDate": "2026-11-25",
+    "title": "Bản cập nhật AV Sport v1.0.8",
+    "changelog": "- Tự động quét mã kích hoạt VietQR SePay\n- Khóa mã máy phần cứng TV vĩnh viễn (chống gian lận khi gỡ app)\n- Tự động nhận diện bản cập nhật mới từ GitHub\n- Tương thích 100% mọi đời LG webOS",
+    "downloadUrl": "https://github.com/anhviet-key/tivi_lg/releases/download/v1.0.8/com.anhviet.avsport.tv_1.0.8_all.ipk",
+    "forceUpdate": false
+  },
+  "avmovie": {
+    "version": "1.2.3",
+    "releaseDate": "2026-11-25",
+    "title": "Bản cập nhật AV Movie 4K v1.2.3",
+    "changelog": "- Tích hợp bản quyền và thanh toán tự động VietQR SePay\n- Khóa mã máy phần cứng TV LG vĩnh viễn\n- Tự động kiểm tra bản cập nhật mới từ GitHub\n- Tối ưu tải phim 4K và điều khiển remote TV",
+    "downloadUrl": "https://github.com/anhviet-key/tivi_lg/releases/download/v1.2.3/com.avmovie.webos_1.2.3_all.ipk",
+    "forceUpdate": false
+  }
+}
